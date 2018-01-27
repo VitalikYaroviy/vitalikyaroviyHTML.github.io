@@ -1,0 +1,13 @@
+.list-categories{
+    margin-left: 20px;
+    text-align: left;
+    font-weight: 200;
+}
+.list-categories__part{
+    font-weight: 200;
+    margin: 15px 0;
+    text-transform: none;
+    font-size: 15px;
+    color: #fff;
+    list-style-type:circle;
+}

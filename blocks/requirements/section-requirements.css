@@ -1,0 +1,10 @@
+.section-requirements{
+    padding-bottom: 80px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    background: url("Layer.png");
+    background-size: cover;
+    background-position: center;
+}

@@ -1,0 +1,23 @@
+.initialSection{
+    padding-top: 120px;
+    padding-bottom: 80px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    background: url("block-info.jpg");
+    background-size: cover;
+    background-position: center;
+}
+
+.initialSection__img{
+    max-width: 65%;
+    height: auto;
+    margin:auto;
+}
+
+@media only screen and (min-width: 768px) {
+    .initialSection{
+        min-height: 500px;
+    }
+}

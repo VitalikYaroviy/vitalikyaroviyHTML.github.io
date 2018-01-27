@@ -1,0 +1,10 @@
+.section-conditions-list{
+    list-style-type: square;
+    display: inline-block;
+    color: #999;
+    text-align: left;
+    margin:10px;
+}
+.section-conditions-list__part{
+    margin: 25px;
+}

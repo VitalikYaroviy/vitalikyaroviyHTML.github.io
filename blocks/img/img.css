@@ -1,0 +1,10 @@
+.img{
+    width: 40px;
+    height: 40px;
+    vertical-align: middle;
+}
+
+.img--width{
+    width: 100%;
+    text-align: center;
+}

@@ -1,0 +1,6 @@
+@media only screen and (min-width: 768px) {
+    .section-index{
+        display: flex;
+        justify-content: center;
+    }
+}

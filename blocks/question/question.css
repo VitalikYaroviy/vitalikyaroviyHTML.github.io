@@ -1,0 +1,18 @@
+.question{
+    margin: 62px 30px;
+    text-align: left;
+    padding-left: 0;
+}
+
+.question__part{
+    color: #1674D1;
+    font-size: 15px;
+    margin: 32px 0;
+}
+
+@media only screen and (min-width: 768px) {
+    .question{
+        margin:auto;
+        width: 50%;
+    }
+}

@@ -1,0 +1,21 @@
+.list-course{
+    margin: 20px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+.list-course-item{
+    text-align: left;
+    list-style: none;
+    padding: 0 0 0 20px;
+}
+.list-course__part{
+    margin: 10px;
+}
+
+.list-course__link{
+    color: #1c1c1c;
+}
+
+

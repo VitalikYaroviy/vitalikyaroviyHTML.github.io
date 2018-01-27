@@ -1,0 +1,12 @@
+.article-categories{
+    margin: 20px 0;
+    background: #3fa0ff;
+    min-height: 400px;
+}
+
+@media only screen and (min-width: 768px) {
+    .article-categories{
+        margin: 20px 10px;
+        width: 300px;
+    }
+}

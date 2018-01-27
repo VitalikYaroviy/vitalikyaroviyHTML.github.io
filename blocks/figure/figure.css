@@ -1,0 +1,15 @@
+.figure{
+    margin: 15px 15px 30px 15px;
+    text-align: center;
+    background: #3fa0ff;
+}
+
+@media only screen and (min-width: 768px) {
+    .figure{
+        margin: 15px 15px 30px 15px;
+        text-align: center;
+        background: #3fa0ff;
+        width: 345px;
+        min-height: 370px;
+    }
+}

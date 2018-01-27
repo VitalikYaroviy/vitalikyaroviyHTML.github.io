@@ -1,0 +1,33 @@
+.text{
+    margin: 10px 0;
+    font-size: 15px;
+    text-align: justify;
+}
+.text--link{
+    font-size: 12px;
+    color: #999;
+    margin: 0;
+}
+
+.text--initial{
+    text-align: center;
+    width: 100%;
+    color: white;
+    font-size: 14px;
+    letter-spacing: 1px;
+}
+.text--figcaption{
+    color: white;
+    text-align: center;
+    margin: 15px 0;
+}
+
+@media only screen and (min-width: 768px) {
+    .text--initial{
+        text-align: center;
+        width: 50%;
+        color: white;
+        font-size: 14px;
+        letter-spacing: 1px;
+    }
+}

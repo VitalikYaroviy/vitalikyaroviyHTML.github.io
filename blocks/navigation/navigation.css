@@ -1,0 +1,17 @@
+.navigation{
+    display: none;
+}
+
+@media only screen and (min-width: 768px) {
+    .navigation{
+        display: block;
+    }
+    .navigation__list{
+        display: inline;
+        padding: 0 20px;
+        font-size: 12px;
+    }
+    .navigation__list a:hover{
+        color: #1674D1;
+    }
+}

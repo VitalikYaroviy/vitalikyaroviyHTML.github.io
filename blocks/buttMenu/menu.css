@@ -1,0 +1,28 @@
+.link-menu {
+    float: right;
+    color: #fff;
+    background: #4e4e4e;
+    text-decoration: none;
+    padding: 0 10px;
+    font-size: 12px;
+    margin: auto;
+    font-weight: bold;
+    line-height: 22px;
+    height: 22px;
+    text-transform: uppercase;
+    letter-spacing: 0.1em;
+    -webkit-border-radius: 2px;
+    -moz-border-radius: 2px;
+    border-radius: 2px;
+}
+.link-menu:hover,
+.link-menu:focus {
+    color: #1c1c1c;
+    background: #ccc;
+}
+
+@media only screen and (min-width: 768px) {
+    .link-menu {
+        display: none;
+    }
+}
